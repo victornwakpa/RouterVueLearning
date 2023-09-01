@@ -1,7 +1,9 @@
 # routervuelearning
 
 This particular repo is just me having fun with vue router.
+
 Is not a major project.
+
 Just trying to brush up my technical skill.
 
 Thank you for visiting
