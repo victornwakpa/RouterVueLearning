@@ -1,14 +1,15 @@
 # routervuelearning
 
-This template should help get you started developing with Vue 3 in Vite.
+This particular repo is just me having fun with vue router.
+Is not a major project.
+Just trying to brush up my technical skill.
+
+Thank you for visiting
 
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
