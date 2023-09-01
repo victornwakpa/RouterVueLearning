@@ -1,5 +1,11 @@
+<script setup>
+  import HomeView from './views/HomeView.vue';
+  import AboutView from './views/AboutView.vue';
+</script>
+
 <template>
   <div>
-    hello
+    <HomeView />
+    <AboutView />
   </div>
 </template>
